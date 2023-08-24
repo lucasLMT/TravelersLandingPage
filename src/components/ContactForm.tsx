@@ -1,4 +1,4 @@
-import { FC, useEffect, useState, ReactElement } from "react";
+import { FC, useState, ReactElement } from "react";
 import { useForm, Resolver } from "react-hook-form";
 
 interface FormData {
@@ -97,7 +97,7 @@ const ContactForm: FC = () => {
   const {
     register,
     handleSubmit,
-    formState: { errors },
+    //formState: { errors },
   } = useForm<FormData>({ resolver });
 
   const [formBehavior, setFormBehavior] = useState<ButtonAction>(PendingButton);
