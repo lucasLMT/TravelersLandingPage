@@ -1,6 +1,6 @@
 # Landing Page with Parallax Effect and Photo Gallery
 
-Welcome to the repository for the development of a stunning landing page with a parallax effect and a photo gallery. This project is built using React.js, TypeScript, Tailwind CSS, and Vite for a smooth and efficient development experience.
+Welcome to the repository for the development of a stunning landing page with a parallax effect and a photo gallery. This project is built using React.js, TypeScript, Tailwind CSS, and Vite for a smooth and efficient development experience. [Live Demo](https://lucaslmt.github.io/TravelersLandingPage)
 
 ## Getting Started
 
